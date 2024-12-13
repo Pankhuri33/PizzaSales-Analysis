@@ -17,7 +17,7 @@ select * from orders  -- order_id, date, time
 
 select * from pizza_types;  -- pizza_type_id, name, category, ingredients
 
-/*
+/* QUESTION WE ARE SOLVING THROUGH THE SQL QUERY
 Basic:
 Retrieve the total number of orders placed.
 Calculate the total revenue generated from pizza sales.
